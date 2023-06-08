@@ -1,0 +1,32 @@
+_repo: Scream-at-midnight_70817
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Brennan, Joseph Payne
+    birthdate: 1918
+    deathdate: 1990
+    gutenberg_agent_id: '55935'
+    url: http://www.gutenberg.org/2009/agents/55935
+    wikipedia: https://en.wikipedia.org/wiki/Joseph_Payne_Brennan
+description: ''
+gutenberg_issued: '2023-05-20'
+identifiers:
+  gutenberg: '70817'
+  lccn: '63024895'
+language: en
+pgterms:marc904: https://babel.hathitrust.org/cgi/pt?id=osu.32435063453005&view=1up&seq=7
+pgterms:marc905: 20221129054319brennan
+pgterms:marc906: '1963'
+pgterms:marc907: US
+production_note: Greg Weeks, Mary Meehan and the Online Distributed Proofreading Team
+  at http://www.pgdp.net
+publication_note: '  $aUnited States :$bMacabre House, $c1963.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Horror tales'
+- !lcc 'PS'
+- GITenberg
+title: Scream at midnight
+url: http://www.gutenberg.org/ebooks/70817
