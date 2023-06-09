@@ -1,5 +1,8 @@
 _repo: Scream-at-midnight_70817
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 70817-h/images/cover.jpg
 creator:
   author:
     agent_name: Brennan, Joseph Payne
@@ -9,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/55935
     wikipedia: https://en.wikipedia.org/wiki/Joseph_Payne_Brennan
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/70817#Scream-at-midnight
 gutenberg_issued: '2023-05-20'
 identifiers:
   gutenberg: '70817'
